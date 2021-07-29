@@ -32,5 +32,3 @@ Bootstrap your app development by using this awesome react native starter kit, i
       	* paste the copied "SHA1:" key
 
       	* then rebuild app
-
-Coded with ❤️ by HiraDev
